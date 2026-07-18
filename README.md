@@ -26,11 +26,11 @@ This project predicts food prices using Machine Learning on real-world data obta
 - Jupyter Notebook
 
 ## Dataset
-The dataset contains historical food price data across different states and time periods. Rice prices were used for model training and prediction. :contentReference[oaicite:0]{index=0}
+The dataset contains historical food price data across different states and time periods. Rice prices were used for model training and prediction. 
 
 ## Model Evaluation
 The models were evaluated using:
 - RMSE (Root Mean Squared Error)
 - R² Score
 
-Among all the models, **Random Forest** achieved the best performance. :contentReference[oaicite:1]{index=1}
+Among all the models, **Random Forest** achieved the best performance. 
